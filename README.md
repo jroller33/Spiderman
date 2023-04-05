@@ -16,7 +16,7 @@ This is a basic web crawler, and it's the first one I've made. It's built with P
 ## Usage
 
 
-### Structure:
+### Basic Structure:
 ![Web Crawler Structure](./basic_structure.jpg)
 
 ## Contribution

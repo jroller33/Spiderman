@@ -14,6 +14,17 @@ This is a basic web crawler, and it's the first one I've made. It's built with P
 
 
 ## Usage
+1. clone repo:
+`git clone https://github.com/jroller33/Spiderman.git`
+
+2. create a virtual environment:
+`python3 -m venv crawler`
+
+3. install dependencies in the venv:
+`pip install requests bs4`
+
+4. 
+
 
 
 ### Basic Structure:

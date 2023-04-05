@@ -11,7 +11,7 @@ I created this to test the general mechanism of a web crawler, and it has a lot 
 
 
 ## Basic Structure:
-![Web Crawler Structure](./basic_structure.jpg)
+![Web Crawler Structure](./pics/basic_structure.jpg)
 
 
 ## Usage
@@ -33,7 +33,7 @@ I created this to test the general mechanism of a web crawler, and it has a lot 
 6. the crawler will log one line for each visited URL in your terminal:
 
 ### Sample Crawler Log for Yahoo News:
-[log](./example_log_file.png)
+![log](./pics/sample_log.png)
 
 
 

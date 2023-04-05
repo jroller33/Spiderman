@@ -5,12 +5,8 @@
 
 This is a basic web crawler, and it's the first one I've made. It's built with Python 🐍 and its dependencies are `bs4` and `requests`.
 
-## Table of Contents
-- [Usage](#usage)
-- [Structure](#structure)
-- [Contribution](#contribution)
-- [License](#license)
-- [Contact](#contact)
+## Basic Structure:
+![Web Crawler Structure](./basic_structure.jpg)
 
 
 ## Usage
@@ -27,8 +23,7 @@ This is a basic web crawler, and it's the first one I've made. It's built with P
 
 
 
-### Basic Structure:
-![Web Crawler Structure](./basic_structure.jpg)
+
 
 ## Contribution
 You can contribute by forking this [repo](https://github.com/jroller33/Spiderman) and submitting a pull request.

@@ -30,7 +30,10 @@ I created this to test the general mechanism of a web crawler, and it has a lot 
 5. in your terminal, run:
 `python crawler.py`
 
-6. the crawler will log one line for each visited URL:
+6. the crawler will log one line for each visited URL in your terminal:
+
+### Sample Crawler Log for Yahoo News:
+[log](./example_log_file.png)
 
 
 

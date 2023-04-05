@@ -32,6 +32,8 @@ I created this to test the general mechanism of a web crawler, and it has a lot 
 
 6. the crawler will log one line for each visited URL in your terminal:
 
+<br />
+
 ### Sample Crawler Log for Yahoo News:
 ![log](./pics/sample_log.png)
 

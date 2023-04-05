@@ -1,4 +1,4 @@
-# crawler for IMDB
+# crawler for Yahoo News
 
 import logging
 from urllib.parse import urljoin
@@ -47,4 +47,4 @@ class Crawler:
                 self.visited_urls.append(url)           # adds URL to 'visited_urls'
 
 if __name__ == '__main__':
-    Crawler(urls=['https://www.imdb.com/']).run()       # defines start URL
+    Crawler(urls=['https://news.yahoo.com/']).run()       # defines URL to start crawling
